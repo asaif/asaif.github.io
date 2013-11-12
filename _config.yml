@@ -1,0 +1,35 @@
+title:            /mind/random or so!
+description:      "Random thoughts about Debian, Cloud and ruby"
+#disqus_shortname: shortnam
+url:              http://asaif.github.io
+
+# Owner/author information
+owner:
+  name:           Ahmad Saif
+  avatar:         avatar.jpg
+  bio:            "Cloud Consultant, enjoy mixing the power of Debian with Cloud powder in a ruby pot"
+  email:          ahmad.abosaif@gmail.com
+  # Social networking links used in author sidebar. Update and remove as you like.
+  twitter:        nerox
+  github:         asaif
+  linkedin:      ahmadabosaif 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: whoami?
+    url: /who
+  - title: memory.sort
+    url: /archive
+  - title: thought.random
+    url: /random
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Africa/Cairo
+future:      true
+pygments:    true
+markdown:    kramdown
