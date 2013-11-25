@@ -15,6 +15,6 @@ To list the packages with “rc” status, use the following command:
 
 To remove those packages, use the following command:
 {% highlight bash %}
-aptitude purge “~c”
+aptitude purge "~c"
 {% endhighlight %}
 Now all the configuration files for those packages have been removed, and there will be no referance any more for any of those packages.
