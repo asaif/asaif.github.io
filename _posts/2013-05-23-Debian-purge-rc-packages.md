@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Purge debian packages marked with rc status"
-description: "how to purge rc status pacakges on debian"
+description: "how to purge rc status packages on debian"
 category: archive
 tags: [Debian, apt-get]
 image:

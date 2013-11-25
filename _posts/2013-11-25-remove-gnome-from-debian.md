@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remove Gnome from Debian"
-description: "how to remove Gnome pacakges from Debian"
+description: "how to remove Gnome package from Debian"
 category: archive
 tags: [Debian, apt-get]
 image:
